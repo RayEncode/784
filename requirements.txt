@@ -1,0 +1,18 @@
+langchain
+langchain-community
+langchain-openai
+sqlalchemy
+pyodbc
+
+llama-index
+llama_index.llms.openai
+llama-index-llms-groq
+llama-index-embeddings-huggingface
+datasets
+openai
+groq
+chromadb
+
+# for test suite evaluation
+sqlparse
+nltk
